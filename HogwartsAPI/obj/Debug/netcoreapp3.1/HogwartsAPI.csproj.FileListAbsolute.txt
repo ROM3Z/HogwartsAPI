@@ -2,7 +2,6 @@ C:\Users\usrsis0116\source\repos\HogwartsAPI\HogwartsAPI\bin\Debug\netcoreapp3.1
 C:\Users\usrsis0116\source\repos\HogwartsAPI\HogwartsAPI\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\usrsis0116\source\repos\HogwartsAPI\HogwartsAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\usrsis0116\source\repos\HogwartsAPI\HogwartsAPI\bin\Debug\netcoreapp3.1\HogwartsAPI.exe
-C:\Users\usrsis0116\source\repos\HogwartsAPI\HogwartsAPI\obj\Debug\netcoreapp3.1\HogwartsAPI.csprojAssemblyReference.cache
 C:\Users\usrsis0116\source\repos\HogwartsAPI\HogwartsAPI\obj\Debug\netcoreapp3.1\HogwartsAPI.AssemblyInfoInputs.cache
 C:\Users\usrsis0116\source\repos\HogwartsAPI\HogwartsAPI\obj\Debug\netcoreapp3.1\HogwartsAPI.AssemblyInfo.cs
 C:\Users\usrsis0116\source\repos\HogwartsAPI\HogwartsAPI\obj\Debug\netcoreapp3.1\HogwartsAPI.RazorTargetAssemblyInfo.cache
